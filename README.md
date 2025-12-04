@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am Sherub Thakur. I deal with python every day. Sometimes I delve into Haskell.
+I deal with python every day. Sometimes I delve into Haskell.
 Exploring Rust and Nix these days. Actively avoid JS, PHP, Java and Go (not really).
 
 Outside tech, I am interested in philosophy, psychology, travelling and gaming.
